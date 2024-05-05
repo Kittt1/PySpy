@@ -1,5 +1,5 @@
 Libs:
-pip install aiogram==2.25.1
+pip install aiogram==2.25.1<br>
 pip install dxcam
 pip install pillow
 pip install mouse
