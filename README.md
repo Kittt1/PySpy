@@ -24,7 +24,7 @@ AltTab🗺 - press 'alt' and click 'tab', use again to realese 'alt'<br>
 WriteText🖋 - write some text<br>
 LeftClick↙️ - left mouse click<br>
 RightClick↘️ - right mouse click<br>
-Screenshot📸 - do screenshot<br>
+Screenshot📸 - take screenshot<br>
 StartRec🎥 - start screen recording<br>
 EndRec🎬 - end screen recording and send it to you<br>
 StartKeyLogging✍️ - start registering keys from the keyboard<br>
